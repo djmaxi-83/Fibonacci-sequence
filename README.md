@@ -8,9 +8,11 @@ This Python script generates a Fibonacci sequence up to a specified number.
    git clone https://github.com/your-username/fibonacci-generator.git
 
 1. Navigate to the project directory:
+
 cd fibonacci-generator
 
 2. Run the script:
+
 python fibonacci_generator.py
 
 You can customize the script by modifying the "n" variable in the script to generate a different number of Fibonacci numbers.
