@@ -9,17 +9,17 @@ This Python script generates a Fibonacci sequence up to a specified number.
 
 1. Navigate to the project directory:
 
-cd fibonacci-generator
+```cd fibonacci-generator```
 
 2. Run the script:
 
-python fibonacci_generator.py
+```python fibonacci_generator.py```
 
 You can customize the script by modifying the "n" variable in the script to generate a different number of Fibonacci numbers.
 
 Example
 The script will output the first n Fibonacci numbers:
-The first 10 Fibonacci numbers are: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+```The first 10 Fibonacci numbers are: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]```
 
 Dependencies
 This script has no external dependencies.
